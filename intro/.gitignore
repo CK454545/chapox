@@ -1,0 +1,6 @@
+frames/
+tmp/
+out/audio_raw.wav
+out/audio.wav
+out/draft.mp4
+__pycache__/
